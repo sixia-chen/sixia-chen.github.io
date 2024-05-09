@@ -1,5 +1,5 @@
 remote_theme: mac01021/jekyllBearFork
 plugins:
-jekyll-remote-theme
+  - jekyll-remote-theme
 title: My homepage
 description: Bookmark this to keep an eye on my work.
