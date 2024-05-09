@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: mac01021/jekyllBearFork
+plugins:
+jekyll-remote-theme
 title: My homepage
-description: Bookmark this to keep an eye on my work!
+description: Bookmark this to keep an eye on my work.
